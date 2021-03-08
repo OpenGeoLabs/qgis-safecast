@@ -1,6 +1,6 @@
 # QGIS Safecast Plugin
 
-**IMPORTANT: Safecast Plugin is obsolete. It is replaced by a new QGIS Radiation Toolbox Plugin (https://gitlab.com/opengeolabs/qgis-radiation-toolbox-plugin).** 
+**IMPORTANT: Safecast Plugin is obsolete. It is replaced by a new Radiation Toolbox Plugin (https://gitlab.com/opengeolabs/qgis-radiation-toolbox-plugin).** 
 
 ## Documentation
 
